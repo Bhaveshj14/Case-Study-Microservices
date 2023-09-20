@@ -1,0 +1,6 @@
+com\training\courseservice\intercomm\StudentClient.class
+com\training\courseservice\model\Course.class
+com\training\courseservice\model\Student.class
+com\training\courseservice\controller\CourseController.class
+com\training\courseservice\repository\CourseRepository.class
+com\training\courseservice\CourseServiceApplication.class
